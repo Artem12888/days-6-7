@@ -1,0 +1,442 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\pr_6-7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{400D4D84-EFF3-4F12-9A8C-8286EFDBB5C1}|pr_6-7\\pr_6-7.csproj|C:\\Users\\User\\source\\repos\\pr_6-7\\pr_6-7\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{400D4D84-EFF3-4F12-9A8C-8286EFDBB5C1}|pr_6-7\\pr_6-7.csproj|solutionrelative:pr_6-7\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{400D4D84-EFF3-4F12-9A8C-8286EFDBB5C1}|pr_6-7\\pr_6-7.csproj|c:\\users\\user\\source\\repos\\pr_6-7\\pr_6-7\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{400D4D84-EFF3-4F12-9A8C-8286EFDBB5C1}|pr_6-7\\pr_6-7.csproj|solutionrelative:pr_6-7\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{400D4D84-EFF3-4F12-9A8C-8286EFDBB5C1}|pr_6-7\\pr_6-7.csproj|C:\\Users\\User\\source\\repos\\pr_6-7\\pr_6-7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{400D4D84-EFF3-4F12-9A8C-8286EFDBB5C1}|pr_6-7\\pr_6-7.csproj|solutionrelative:pr_6-7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{400D4D84-EFF3-4F12-9A8C-8286EFDBB5C1}|pr_6-7\\pr_6-7.csproj|C:\\Users\\User\\source\\repos\\pr_6-7\\pr_6-7\\form13.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{400D4D84-EFF3-4F12-9A8C-8286EFDBB5C1}|pr_6-7\\pr_6-7.csproj|solutionrelative:pr_6-7\\form13.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{400D4D84-EFF3-4F12-9A8C-8286EFDBB5C1}|pr_6-7\\pr_6-7.csproj|C:\\Users\\User\\source\\repos\\pr_6-7\\pr_6-7\\form13.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{400D4D84-EFF3-4F12-9A8C-8286EFDBB5C1}|pr_6-7\\pr_6-7.csproj|solutionrelative:pr_6-7\\form13.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{400D4D84-EFF3-4F12-9A8C-8286EFDBB5C1}|pr_6-7\\pr_6-7.csproj|C:\\Users\\User\\source\\repos\\pr_6-7\\pr_6-7\\form12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{400D4D84-EFF3-4F12-9A8C-8286EFDBB5C1}|pr_6-7\\pr_6-7.csproj|solutionrelative:pr_6-7\\form12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{400D4D84-EFF3-4F12-9A8C-8286EFDBB5C1}|pr_6-7\\pr_6-7.csproj|C:\\Users\\User\\source\\repos\\pr_6-7\\pr_6-7\\form11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{400D4D84-EFF3-4F12-9A8C-8286EFDBB5C1}|pr_6-7\\pr_6-7.csproj|solutionrelative:pr_6-7\\form11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{400D4D84-EFF3-4F12-9A8C-8286EFDBB5C1}|pr_6-7\\pr_6-7.csproj|C:\\Users\\User\\source\\repos\\pr_6-7\\pr_6-7\\form12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{400D4D84-EFF3-4F12-9A8C-8286EFDBB5C1}|pr_6-7\\pr_6-7.csproj|solutionrelative:pr_6-7\\form12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{400D4D84-EFF3-4F12-9A8C-8286EFDBB5C1}|pr_6-7\\pr_6-7.csproj|C:\\Users\\User\\source\\repos\\pr_6-7\\pr_6-7\\form11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{400D4D84-EFF3-4F12-9A8C-8286EFDBB5C1}|pr_6-7\\pr_6-7.csproj|solutionrelative:pr_6-7\\form11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{400D4D84-EFF3-4F12-9A8C-8286EFDBB5C1}|pr_6-7\\pr_6-7.csproj|C:\\Users\\User\\source\\repos\\pr_6-7\\pr_6-7\\form10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{400D4D84-EFF3-4F12-9A8C-8286EFDBB5C1}|pr_6-7\\pr_6-7.csproj|solutionrelative:pr_6-7\\form10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{400D4D84-EFF3-4F12-9A8C-8286EFDBB5C1}|pr_6-7\\pr_6-7.csproj|C:\\Users\\User\\source\\repos\\pr_6-7\\pr_6-7\\form10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{400D4D84-EFF3-4F12-9A8C-8286EFDBB5C1}|pr_6-7\\pr_6-7.csproj|solutionrelative:pr_6-7\\form10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{400D4D84-EFF3-4F12-9A8C-8286EFDBB5C1}|pr_6-7\\pr_6-7.csproj|C:\\Users\\User\\source\\repos\\pr_6-7\\pr_6-7\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{400D4D84-EFF3-4F12-9A8C-8286EFDBB5C1}|pr_6-7\\pr_6-7.csproj|solutionrelative:pr_6-7\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{400D4D84-EFF3-4F12-9A8C-8286EFDBB5C1}|pr_6-7\\pr_6-7.csproj|C:\\Users\\User\\source\\repos\\pr_6-7\\pr_6-7\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{400D4D84-EFF3-4F12-9A8C-8286EFDBB5C1}|pr_6-7\\pr_6-7.csproj|solutionrelative:pr_6-7\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{400D4D84-EFF3-4F12-9A8C-8286EFDBB5C1}|pr_6-7\\pr_6-7.csproj|C:\\Users\\User\\source\\repos\\pr_6-7\\pr_6-7\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{400D4D84-EFF3-4F12-9A8C-8286EFDBB5C1}|pr_6-7\\pr_6-7.csproj|solutionrelative:pr_6-7\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{400D4D84-EFF3-4F12-9A8C-8286EFDBB5C1}|pr_6-7\\pr_6-7.csproj|C:\\Users\\User\\source\\repos\\pr_6-7\\pr_6-7\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{400D4D84-EFF3-4F12-9A8C-8286EFDBB5C1}|pr_6-7\\pr_6-7.csproj|solutionrelative:pr_6-7\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{400D4D84-EFF3-4F12-9A8C-8286EFDBB5C1}|pr_6-7\\pr_6-7.csproj|C:\\Users\\User\\source\\repos\\pr_6-7\\pr_6-7\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{400D4D84-EFF3-4F12-9A8C-8286EFDBB5C1}|pr_6-7\\pr_6-7.csproj|solutionrelative:pr_6-7\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{400D4D84-EFF3-4F12-9A8C-8286EFDBB5C1}|pr_6-7\\pr_6-7.csproj|C:\\Users\\User\\source\\repos\\pr_6-7\\pr_6-7\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{400D4D84-EFF3-4F12-9A8C-8286EFDBB5C1}|pr_6-7\\pr_6-7.csproj|solutionrelative:pr_6-7\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{400D4D84-EFF3-4F12-9A8C-8286EFDBB5C1}|pr_6-7\\pr_6-7.csproj|C:\\Users\\User\\source\\repos\\pr_6-7\\pr_6-7\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{400D4D84-EFF3-4F12-9A8C-8286EFDBB5C1}|pr_6-7\\pr_6-7.csproj|solutionrelative:pr_6-7\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{400D4D84-EFF3-4F12-9A8C-8286EFDBB5C1}|pr_6-7\\pr_6-7.csproj|C:\\Users\\User\\source\\repos\\pr_6-7\\pr_6-7\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{400D4D84-EFF3-4F12-9A8C-8286EFDBB5C1}|pr_6-7\\pr_6-7.csproj|solutionrelative:pr_6-7\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{400D4D84-EFF3-4F12-9A8C-8286EFDBB5C1}|pr_6-7\\pr_6-7.csproj|C:\\Users\\User\\source\\repos\\pr_6-7\\pr_6-7\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{400D4D84-EFF3-4F12-9A8C-8286EFDBB5C1}|pr_6-7\\pr_6-7.csproj|solutionrelative:pr_6-7\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{400D4D84-EFF3-4F12-9A8C-8286EFDBB5C1}|pr_6-7\\pr_6-7.csproj|C:\\Users\\User\\source\\repos\\pr_6-7\\pr_6-7\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{400D4D84-EFF3-4F12-9A8C-8286EFDBB5C1}|pr_6-7\\pr_6-7.csproj|solutionrelative:pr_6-7\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{400D4D84-EFF3-4F12-9A8C-8286EFDBB5C1}|pr_6-7\\pr_6-7.csproj|C:\\Users\\User\\source\\repos\\pr_6-7\\pr_6-7\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{400D4D84-EFF3-4F12-9A8C-8286EFDBB5C1}|pr_6-7\\pr_6-7.csproj|solutionrelative:pr_6-7\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{400D4D84-EFF3-4F12-9A8C-8286EFDBB5C1}|pr_6-7\\pr_6-7.csproj|C:\\Users\\User\\source\\repos\\pr_6-7\\pr_6-7\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{400D4D84-EFF3-4F12-9A8C-8286EFDBB5C1}|pr_6-7\\pr_6-7.csproj|solutionrelative:pr_6-7\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{400D4D84-EFF3-4F12-9A8C-8286EFDBB5C1}|pr_6-7\\pr_6-7.csproj|C:\\Users\\User\\source\\repos\\pr_6-7\\pr_6-7\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{400D4D84-EFF3-4F12-9A8C-8286EFDBB5C1}|pr_6-7\\pr_6-7.csproj|solutionrelative:pr_6-7\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{400D4D84-EFF3-4F12-9A8C-8286EFDBB5C1}|pr_6-7\\pr_6-7.csproj|C:\\Users\\User\\source\\repos\\pr_6-7\\pr_6-7\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{400D4D84-EFF3-4F12-9A8C-8286EFDBB5C1}|pr_6-7\\pr_6-7.csproj|solutionrelative:pr_6-7\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{400D4D84-EFF3-4F12-9A8C-8286EFDBB5C1}|pr_6-7\\pr_6-7.csproj|C:\\Users\\User\\source\\repos\\pr_6-7\\pr_6-7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{400D4D84-EFF3-4F12-9A8C-8286EFDBB5C1}|pr_6-7\\pr_6-7.csproj|solutionrelative:pr_6-7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 24,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\pr_6-7\\pr_6-7\\Form1.cs",
+              "RelativeDocumentMoniker": "pr_6-7\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\pr_6-7\\pr_6-7\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "pr_6-7\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T06:05:50.095Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\pr_6-7\\pr_6-7\\Form2.cs",
+              "RelativeDocumentMoniker": "pr_6-7\\Form2.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\pr_6-7\\pr_6-7\\Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "pr_6-7\\Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T06:13:37.625Z",
+              "IsPinned": true,
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Form3.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\pr_6-7\\pr_6-7\\Form3.cs",
+              "RelativeDocumentMoniker": "pr_6-7\\Form3.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\pr_6-7\\pr_6-7\\Form3.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "pr_6-7\\Form3.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T06:13:49.007Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Form5.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\pr_6-7\\pr_6-7\\Form5.cs",
+              "RelativeDocumentMoniker": "pr_6-7\\Form5.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\pr_6-7\\pr_6-7\\Form5.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "pr_6-7\\Form5.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T06:14:11.385Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Form6.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\pr_6-7\\pr_6-7\\Form6.cs",
+              "RelativeDocumentMoniker": "pr_6-7\\Form6.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\pr_6-7\\pr_6-7\\Form6.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "pr_6-7\\Form6.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T06:14:20.052Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Form7.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\pr_6-7\\pr_6-7\\Form7.cs",
+              "RelativeDocumentMoniker": "pr_6-7\\Form7.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\pr_6-7\\pr_6-7\\Form7.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "pr_6-7\\Form7.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T06:14:35.489Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form8.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\pr_6-7\\pr_6-7\\Form8.cs",
+              "RelativeDocumentMoniker": "pr_6-7\\Form8.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\pr_6-7\\pr_6-7\\Form8.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "pr_6-7\\Form8.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T06:14:43.88Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form9.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\pr_6-7\\pr_6-7\\Form9.cs",
+              "RelativeDocumentMoniker": "pr_6-7\\Form9.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\pr_6-7\\pr_6-7\\Form9.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "pr_6-7\\Form9.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T06:14:58.514Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form10.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\pr_6-7\\pr_6-7\\Form10.cs",
+              "RelativeDocumentMoniker": "pr_6-7\\Form10.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\pr_6-7\\pr_6-7\\Form10.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "pr_6-7\\Form10.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T07:08:13.52Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form11.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\pr_6-7\\pr_6-7\\Form11.cs",
+              "RelativeDocumentMoniker": "pr_6-7\\Form11.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\pr_6-7\\pr_6-7\\Form11.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "pr_6-7\\Form11.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T07:08:24.538Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form12.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\pr_6-7\\pr_6-7\\Form12.cs",
+              "RelativeDocumentMoniker": "pr_6-7\\Form12.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\pr_6-7\\pr_6-7\\Form12.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "pr_6-7\\Form12.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T07:08:46.715Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form13.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\pr_6-7\\pr_6-7\\Form13.cs",
+              "RelativeDocumentMoniker": "pr_6-7\\Form13.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\pr_6-7\\pr_6-7\\Form13.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "pr_6-7\\Form13.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T07:09:04.198Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Form4.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\pr_6-7\\pr_6-7\\Form4.cs",
+              "RelativeDocumentMoniker": "pr_6-7\\Form4.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\pr_6-7\\pr_6-7\\Form4.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "pr_6-7\\Form4.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T06:14:03.072Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form13.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\pr_6-7\\pr_6-7\\Form13.cs",
+              "RelativeDocumentMoniker": "pr_6-7\\Form13.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\pr_6-7\\pr_6-7\\Form13.cs",
+              "RelativeToolTip": "pr_6-7\\Form13.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAywEgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T13:43:09.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form12.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\pr_6-7\\pr_6-7\\Form12.cs",
+              "RelativeDocumentMoniker": "pr_6-7\\Form12.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\pr_6-7\\pr_6-7\\Form12.cs",
+              "RelativeToolTip": "pr_6-7\\Form12.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAIBFwBoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T13:24:58.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form11.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\pr_6-7\\pr_6-7\\Form11.cs",
+              "RelativeDocumentMoniker": "pr_6-7\\Form11.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\pr_6-7\\pr_6-7\\Form11.cs",
+              "RelativeToolTip": "pr_6-7\\Form11.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAvwBUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T13:10:41.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form7.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\pr_6-7\\pr_6-7\\Form7.cs",
+              "RelativeDocumentMoniker": "pr_6-7\\Form7.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\pr_6-7\\pr_6-7\\Form7.cs",
+              "RelativeToolTip": "pr_6-7\\Form7.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAADwvxUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T03:54:52.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Form6.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\pr_6-7\\pr_6-7\\Form6.cs",
+              "RelativeDocumentMoniker": "pr_6-7\\Form6.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\pr_6-7\\pr_6-7\\Form6.cs",
+              "RelativeToolTip": "pr_6-7\\Form6.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAAAFAAAAB+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T02:27:23.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Form5.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\pr_6-7\\pr_6-7\\Form5.cs",
+              "RelativeDocumentMoniker": "pr_6-7\\Form5.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\pr_6-7\\pr_6-7\\Form5.cs",
+              "RelativeToolTip": "pr_6-7\\Form5.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAABUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T15:42:37.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\pr_6-7\\pr_6-7\\Form4.cs",
+              "RelativeDocumentMoniker": "pr_6-7\\Form4.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\pr_6-7\\pr_6-7\\Form4.cs",
+              "RelativeToolTip": "pr_6-7\\Form4.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAA1wEAAAABwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T15:06:41.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\pr_6-7\\pr_6-7\\Form3.cs",
+              "RelativeDocumentMoniker": "pr_6-7\\Form3.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\pr_6-7\\pr_6-7\\Form3.cs",
+              "RelativeToolTip": "pr_6-7\\Form3.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAEAAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T14:58:09.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form10.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\pr_6-7\\pr_6-7\\Form10.cs",
+              "RelativeDocumentMoniker": "pr_6-7\\Form10.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\pr_6-7\\pr_6-7\\Form10.cs",
+              "RelativeToolTip": "pr_6-7\\Form10.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAvwBYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T07:56:35.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form9.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\pr_6-7\\pr_6-7\\Form9.cs",
+              "RelativeDocumentMoniker": "pr_6-7\\Form9.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\pr_6-7\\pr_6-7\\Form9.cs",
+              "RelativeToolTip": "pr_6-7\\Form9.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAADwvxUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T02:53:53.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\pr_6-7\\pr_6-7\\Form2.cs",
+              "RelativeDocumentMoniker": "pr_6-7\\Form2.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\pr_6-7\\pr_6-7\\Form2.cs",
+              "RelativeToolTip": "pr_6-7\\Form2.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAABCwCgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T10:11:56.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form8.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\pr_6-7\\pr_6-7\\Form8.cs",
+              "RelativeDocumentMoniker": "pr_6-7\\Form8.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\pr_6-7\\pr_6-7\\Form8.cs",
+              "RelativeToolTip": "pr_6-7\\Form8.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAA1wBcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T04:54:45.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\pr_6-7\\pr_6-7\\Form1.cs",
+              "RelativeDocumentMoniker": "pr_6-7\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\pr_6-7\\pr_6-7\\Form1.cs",
+              "RelativeToolTip": "pr_6-7\\Form1.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAiwFcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T04:20:51.573Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
